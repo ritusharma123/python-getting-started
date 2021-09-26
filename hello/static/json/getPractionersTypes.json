@@ -1,1 +1,9 @@
-{"appointmentDoctorType":[]}
+{
+    "appointmentDoctorType": [
+        {
+            "practitionerTypeId": "Nutritionists\t",
+            "practitionerType": "Nutritionists\t",
+            "practitioner_type_description": "Nutritionists\t"
+        }
+    ]
+}
