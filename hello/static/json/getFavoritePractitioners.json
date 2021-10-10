@@ -1,0 +1,26 @@
+{
+    "appointmentSearchReasult": [
+      {
+        "organizationLocationId": 1,
+        "practitioner_master_id": 1,
+        "practitioner_name": "Dr.  Namrata",
+        "organizationId": 2,
+        "organizationName": "Gems",
+        "practitionerGender": "F",
+        "pracClinicFees": 500,
+        "pracHouseFees": 0,
+        "pracTeleFees": 500,
+        "locationsId": 1,
+        "locationsName": "Bangalore",
+        "doctorImgae": "\/profilePictures\/profile_picture_4.jpg",
+        "userId": 4,
+        "doctorinfoGraduationYear": "2016",
+        "doctorinfoPrimarySpecialty": "Family Doctor",
+        "practitionerPrimarySpecialty": "MD Obstetrics and Gynaecology",
+        "practitionerSecondarySpecialty": " ",
+        "practitionerTertiarySpecialty": " ",
+        "practitionerMedicalSchool": "KPC Medical College and Hospital ",
+        "practitionerLanguage": "English, Bengali, Hindi"
+      }
+    ]
+  }

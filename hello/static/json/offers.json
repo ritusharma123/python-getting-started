@@ -1,0 +1,20 @@
+{
+    "offers":[
+        {
+            "id": 1,
+            "title": "COVID CARE",
+            "sub_title": "@ HOME",
+            "desc": "Helping you Fight COVID-19",
+            "rate": "Rs 3000",
+            "rate_desc": "Basic Package"
+        },
+        {
+            "id": 2,
+            "title": "COVID CARE",
+            "sub_title": "@ HOME",
+            "desc": "Helping you Fight COVID-19",
+            "rate": "Rs 5000",
+            "rate_desc": "Advance Package"
+        }
+    ]
+}

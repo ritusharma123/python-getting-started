@@ -1,1 +1,32 @@
-{"error":[{"errorCode":"7583908001834093175","errorMessages":[{"errorMsg":"No scheduled appointment found"}]}]}
+[
+    {
+      "locationsName": "Bangalore",
+      "organizationId": 2,
+      "organizationName": "Gems",
+      "patientId": 66,
+      "patientName": "Anil Demo",
+      "practitionerAppointmentId": 521,
+      "practitioner_master_id": 4,
+      "practitioner_name": "Dr. Mirnalini",
+      "appointmentDate": "2021-09-29",
+      "appointmentTime": "12:15",
+      "appointmentType": "T",
+      "appointmentEndTime": "12:45",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "locationsName": "Bangalore",
+      "organizationId": 2,
+      "organizationName": "Gems",
+      "patientId": 66,
+      "patientName": "Anil Demo",
+      "practitionerAppointmentId": 522,
+      "practitioner_master_id": 5,
+      "practitioner_name": "Dr. Mithesh Shetty",
+      "appointmentDate": "2021-10-04",
+      "appointmentTime": "14:00",
+      "appointmentType": "T",
+      "appointmentEndTime": "14:30",
+      "appointmentStatus": "Scheduled"
+    }
+  ]
